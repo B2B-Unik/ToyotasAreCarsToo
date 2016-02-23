@@ -1,6 +1,6 @@
 # ToyotasAreCarsToo
 Assignment 1: Toyota's are Cars too!
-1. Create a new Command Line Tool project and pick Objective-C as the language./n
+1. Create a new Command Line Tool project and pick Objective-C as the language.
 2. Create a Class called Car. Add a NSString property called model.
 3. Create a method called drive. Inside the method put an NSLog statement that prints the model of the car you are driving.
 4. Create a initWithModel: method that requires an NSString *model as an input. Inside the method set _model = model. This will set the class's model to the model you pass in.
